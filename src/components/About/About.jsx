@@ -28,7 +28,6 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3> Creative Coder with a Design Eye</h3>
               <p>
-              To me, frontend development isn’t just about writing code,it’s about designing experiences.
               I love turning ideas into visually engaging experiences, blending clean code with a keen eye for design and detail.
               </p>
             </div>
