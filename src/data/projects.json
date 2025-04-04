@@ -1,6 +1,6 @@
 [
   {
-    "title": "Project A",
+    "title": "Bookworm's Haven",
     "imageSrc": "projects/project1.png",
     "description": " A MERN-powered bookstore with easy browsing, wishlist, and secure checkout.",
     "skills": ["React", "Express", "Node", "MongoDB"],
@@ -9,7 +9,7 @@
   },
 
   {
-    "title": "Project B",
+    "title": "GymRat",
     "imageSrc": "projects/project3.png",
     "description": "A fitness tracking app to monitor workouts, set goals, track progress, and stay motivated.",
     "skills": ["React", "JavaScript", "CSS", "Flask"],
@@ -18,7 +18,7 @@
   },
 
   {
-    "title": "Project C",
+    "title": "ConnectoPedia",
     "imageSrc": "projects/project2.png",
     "description": "A dynamic social media platform with interactive posts, chat, and theme customization.",
     "skills": ["HTML", "CSS", "JavaScript"],
