@@ -19,7 +19,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Frontend Developer</h3>
               <p>
-              I build visually appealing, user-friendly, and high-performance web interfaces using React.js, JavaScript, HTML, and CSS. If there’s a way to make an app both beautiful and functional, you’ll find me doing just that.
+              I specialize in building responsive, intuitive, and accessible web interfaces that not only look good but feel great to use.
               </p>
             </div>
           </li>
@@ -29,7 +29,7 @@ export const About = () => {
               <h3> Creative Coder with a Design Eye</h3>
               <p>
               To me, frontend development isn’t just about writing code,it’s about designing experiences.
-              I love playing around with colors, typography, and interactions to make every website feel intuitive and alive.
+              I love turning ideas into visually engaging experiences, blending clean code with a keen eye for design and detail.
               </p>
             </div>
           </li>
