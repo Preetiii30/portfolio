@@ -11,7 +11,7 @@ export const Hero = () => {
         <p className={styles.description}>
           I'm a frontend developer who loves turning ideas into interactive web experiences!
         </p>
-        <a href="https://drive.google.com/file/d/1m6X9Z6VXys-4KqWHOE7QjyaLnMjlS2Q0/view?usp=sharing" className={styles.contactBtn}>
+        <a href="https://drive.google.com/file/d/1yQ30swgxtqbrnvv3TtxG1G6mBhosisrX/view?usp=sharing" className={styles.contactBtn}>
           Download Resume
         </a>
       </div>
